@@ -3,5 +3,14 @@ public class Helloworld{
     System.out.println("HelloWorld");
     System.out.println("HelloWorld");
     System.out.println("日本電子専門学校");
+    System.out.println("日本電子専門学校");
+    System.out.println("日本電子専門学校");
+    System.out.println("日本電子専門学校");
+    System.out.println("日本電子専門学校");
+    System.out.println("日本電子専門学校");
+    System.out.println("日本電子専門学校");
+    System.out.println("日本電子専門学校");
+    System.out.println("日本電子専門学校");
   }
 }
+
